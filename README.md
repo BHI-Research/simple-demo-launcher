@@ -9,7 +9,6 @@ Download and install [Anaconda](https://docs.anaconda.com/anaconda/install/). Ad
 ```bash
 (base) conda create -n bhi-base-env python=3.12
 (base) conda activate bhi-base-env
-
 (bhi-base-env) pip install -r requirements.txt
 ```
 
